@@ -117,6 +117,7 @@ public class ArithmeticService {
     sb.append("I am ").append(System.getProperty("sun.java.command")).append(" running on ")
         .append(System.getProperty("os.name")).append(" version ")
         .append(System.getProperty("os.version"));
+    LOG.debug("Telling the client who I am. {}", sb.toString());
     return sb.toString();
   }
 
