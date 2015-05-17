@@ -95,6 +95,14 @@ Delete all student records using
 
 #JPA/Hibernate talk
 
-Coming soon.
+In the JPA/Hibernate talk we have introduced the basics of Object Relation Mapping (ORM) and the implementation of JPA and Hibernate.
+
+##play-jpa-sample
+
+An example [Play application](http://www.playframework.com) using JPA and Hibernate. The application does not contain any UI logic, but concentrates on how JPA relationships are correctly modeled. A general introduction to JPA and Hibernate is given on the following slide deck: [http://www.slideshare.net/ecosio/introduction-to-jpa-and-hibernate-using](http://www.slideshare.net/ecosio/introduction-to-jpa-and-hibernate-using)
+
+The following DB structure is used for the samples:
+
+![Sample ER diagram](https://github.com/pliegl/we2014/blob/master/img/Sample_ER_Diagram.jpg?raw=true "Sample ER diagram")
 
 
