@@ -11,7 +11,7 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 /**
- * Tests for the persitence service
+ * Tests for the persistence service
  */
 public class PersistenceTest extends BaseTest {
 
